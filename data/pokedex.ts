@@ -9104,7 +9104,7 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 	serperior: {
 		num: 497,
 		name: "Serperior",
-		types: ["Grass"],
+		types: ["Grass", "Dragon"],
 		genderRatio: {M: 0.875, F: 0.125},
 		baseStats: {hp: 75, atk: 75, def: 95, spa: 75, spd: 95, spe: 113},
 		abilities: {0: "Overgrow", H: "Contrary"},
